@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/spotifystats/static/css/main.e627929b.chunk.css",
-    "main.js": "/spotifystats/static/js/main.1766639d.chunk.js",
-    "main.js.map": "/spotifystats/static/js/main.1766639d.chunk.js.map",
+    "main.js": "/spotifystats/static/js/main.45008499.chunk.js",
+    "main.js.map": "/spotifystats/static/js/main.45008499.chunk.js.map",
     "runtime~main.js": "/spotifystats/static/js/runtime~main.4d944a17.js",
     "runtime~main.js.map": "/spotifystats/static/js/runtime~main.4d944a17.js.map",
     "static/js/2.25925bf1.chunk.js": "/spotifystats/static/js/2.25925bf1.chunk.js",
     "static/js/2.25925bf1.chunk.js.map": "/spotifystats/static/js/2.25925bf1.chunk.js.map",
     "index.html": "/spotifystats/index.html",
-    "precache-manifest.3de40a74fecebc467f0ed7d363f9ded8.js": "/spotifystats/precache-manifest.3de40a74fecebc467f0ed7d363f9ded8.js",
+    "precache-manifest.dc2c1b62fd5f76b3dd04edb8804d81df.js": "/spotifystats/precache-manifest.dc2c1b62fd5f76b3dd04edb8804d81df.js",
     "service-worker.js": "/spotifystats/service-worker.js",
     "static/css/main.e627929b.chunk.css.map": "/spotifystats/static/css/main.e627929b.chunk.css.map"
   }
