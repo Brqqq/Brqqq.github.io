@@ -7,7 +7,7 @@
                 outputEl.innerHTML = "";
                 const rolls = inputEl.value
                     .split("\n")
-                    .filter(roll => roll.includes("rolls"))
+                    .filter(roll => roll.includes(" rolls "))
                     .map(roll => {
                         const matches = roll.match(/(\d*.)\/(\d+)/);
                         const numericRoll = Number(matches[1]);
